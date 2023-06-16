@@ -1,0 +1,68 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Peter Paul",
+      "rank": "Elite",
+      "ign": "LoneWolf",
+      "starting bid": 100,
+      "image url": "Assets/images/dp_default.png"
+    },
+    {
+      "id": 2,
+      "name": "Cindy Sauer",
+      "rank": "Elite",
+      "ign": "LoneWolf",
+      "starting bid": 100,
+      "image url": "Assets/images/dp_default.png"
+    },
+    {
+      "id": 3,
+      "name": "Khalil Eichmann",
+      "rank": "Gold",
+      "ign": "LoneWolf",
+      "starting bid": 50,
+      "image url": "Assets/images/dp_default.png"
+    },
+    {
+      "id": 4,
+      "name": "Tom Jones",
+      "rank": "Gold",
+      "ign": "LoneWolf",
+      "starting bid": 50,
+      "image url": "Assets/images/dp_default.png"
+    },
+    {
+      "id": 5,
+      "name": "Toby Anderson",
+      "rank": "Silver",
+      "ign": "LoneWolf",
+      "starting bid": 25,
+      "image url": "Assets/images/dp_default.png"
+    },
+    {
+      "id": 6,
+      "name": "Alex Ferguson",
+      "rank": "Silver",
+      "ign": "LoneWolf",
+      "starting bid": 25,
+      "image url": "Assets/images/dp_default.png"
+    },
+    {
+      "id": 7,
+      "name": "Pabulo Escobar",
+      "rank": "Bronze",
+      "ign": "LoneWolf",
+      "starting bid": 15,
+      "image url": "Assets/images/dp_default.png"
+    },
+    {
+      "id": 8,
+      "name": "Walter White",
+      "rank": "Bronze",
+      "ign": "LoneWolf",
+      "starting bid": 15,
+      "image url": "Assets/images/dp_default.png"
+    }
+  ]
+}
